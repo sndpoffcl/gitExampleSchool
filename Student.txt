@@ -5,3 +5,4 @@ Ifra
 Durgesh
 Anant
 Ratikanta
+Total number of students for dev1 = 10
